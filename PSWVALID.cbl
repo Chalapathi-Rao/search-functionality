@@ -56,5 +56,3 @@
                    EXIT PERFORM
                END-IF
            END-PERFORM.
-       *******
-///////
